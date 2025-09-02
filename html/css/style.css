@@ -1,0 +1,155 @@
+html {
+    background-color: blueviolet;
+    color: #fff;
+    font-size: 1.2em;
+}
+.good{
+    color: white;
+    background-color: #1ab55f;
+    font-size: 1.1em;
+    padding: 6px;
+    width: fit-content;
+    border-radius: 4px;
+}
+
+#processing{
+    padding: 8px;
+    background-color: #673AB7;
+    color: #ffffff;
+    font-weight: 600;
+    text-align: center;
+    height: fit-content;
+}
+
+
+#loader {
+    border: 8px solid #3498db;
+    border-top: 8px solid #fff;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin: 50px auto;
+    animation: spin 1s linear infinite;
+    display: block; /* Inicia oculto */
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.exception{
+    color: #fff;
+    width: fit-content;
+    padding: 4px;
+    border-radius: 4px;
+    background-color: #ea0707;
+    font-size: 1.3em;
+}
+.app {
+    font-size: 1.2em;
+}
+
+.app input,
+.app select,
+.app button {
+    font-size: 1em;
+    max-width: 100%; /*.app input*/
+}
+
+.app select{
+    border-radius: 4px;
+}
+
+.app button{
+    cursor: pointer;
+    background-color: #4e4953;
+    border-radius: 4px;
+    padding: 7px;
+    color: #fff;
+}
+
+.presentation.gold{
+   border-top: 12px solid #ffa41e;
+}
+
+.presentation.two {
+    margin-top: 25px;
+}
+
+.app button {
+    border-radius: 4px;
+    padding: 4px;
+}
+
+.red_error {
+    color: #ea0707;
+    font-size: 1.1em;
+}
+
+.reference {
+    color: #6a35a1;
+}
+
+.reference::after {
+    content: '👇';
+}
+
+.info {
+    width: fit-content;
+    padding: 8px;
+    background-color: blueviolet;
+    border-radius: 4px;
+}
+
+.info a {
+    color: #fff;
+    font-size: 1em;
+    text-decoration: none;
+}
+
+.block_list {
+    margin: 11px;
+}
+
+.block {
+    color: #484648;
+    padding: 3px;
+    display: inline-block;
+    margin: 8px;
+    border-radius: 4px;
+    box-shadow: 0 0 4px 1px #b5aeae;
+    font-size: 1.5em;
+}
+
+.presentation,.app {
+    padding: 15px;
+    border-radius: 5px;
+    background-color: white;
+    width: 60%;
+    color: #484648;
+    margin: 15px auto 0;
+}
+
+#upform {
+    text-align: center;
+    margin: 5px;
+}
+
+
+/* Tornar responsivo */
+
+@media (max-width: 768px) {
+
+    .presentation,.app {
+        width: 90%;
+    }
+    .app input{
+        font-size: 1em;
+    }
+    .block {
+        display: block;
+        margin: 8px 0;
+    }
+
+}

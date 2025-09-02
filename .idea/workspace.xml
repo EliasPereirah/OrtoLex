@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef7aa138-9d79-4502-ae7c-e6e1bc2b60fe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GitOrtoLex.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeception.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/phpspec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/history/0048a973df331dcc6fa69755734c1956f94f9183922e577dcfb808f7a7d496a9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/history/115bb8298c393e7c57477ffbf1b425dd25561e8164a1ff3131edcdc07490d673.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/history/509dfd1ae09da58a383813dcafd7073aa669e1d4780f0d1da12544b434285185.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/history/532df0597395e7e418d76da54ab18e53a5a904ec0a7bad91772b1de90eeced9b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/history/5ccfab5b5750d3077092fda3faef704b0e0d358a53c4807d417ef7a0e638cc7b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/history/5f19efd9a7255b26a41e1a7a81d67c56c14eff2879999a2bde3082d0d45b2e59.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/history/64c83b9481d9f794076aca2aba523197a856a5bdc250be0391773614273fab76.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/history/7578dccfdaa89bce3d63be066baca82bfb47eec213c5e81b90b3693aca344149.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/history/819362dee99155c3c36a1bcbba7971323d08c9aaea6e18eeac0946ef71ccaf40.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/history/86fbaef639779cc90f3e70d2079a45dd41495dd4de16484ca8f11d4f770a4f30.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/history/9b66c464dbb31d12edd3a13222140d2284a47a19462f1810132d34222b2f27af.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/history/e7215e400629439eaefde25b9fe6172d92ceeb8c7d32898240afa1cd91c64b7d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/history/f401f199b7c33dc689dc369c76f9fafc0d38ab306438d04954bf01a18a89b301.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/history/fbe8c7874d4d79c3a82b3f983f24ac4a8497d764495d52dc7abe1b38ac299542.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/cocur/slugify" />
+      <path value="$PROJECT_DIR$/vendor/spatie/pdf-to-text" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/uploader" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3296qQQx01b0ZgqO6uEueFQKWE6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PS-252.23892.419" />
+        <option value="bundled-php-predefined-a98d8de5180a-c72577f2c82f-com.jetbrains.php.sharedIndexes-PS-252.23892.419" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef7aa138-9d79-4502-ae7c-e6e1bc2b60fe" name="Changes" comment="" />
+      <created>1756820630683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756820630683</updated>
+      <workItem from="1756820631751" duration="1243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
